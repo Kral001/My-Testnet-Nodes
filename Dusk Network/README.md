@@ -1,4 +1,3 @@
-# Dusk-Network-Kurulum
 <h1 align="center"> Dusk Network | Node Kurulumu </h1>
 
 <h1 align="center"> Merhaba arkadaşlar, Dusk ağında form doldurmuştuk ve tokenler geldi, şimdi nodumuzu kuralım </h1>
