@@ -1,6 +1,3 @@
-## Ziesha Testneti Hakkında 
-
-
 <h1 align="center"> Ziesha Network Ödüllü Testnet Kurulum Rehberi </h1>
 <h1 align="center"> ℤiesha Network | The Groth Testnet </h1>
 
