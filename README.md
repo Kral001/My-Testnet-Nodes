@@ -3,7 +3,7 @@
 
 # Network Projects
 
-- Ziesha Network [Twitter](https://twitter.com/ZieshaNetwork).
+- Ziesha Network [Twitter](https://twitter.com/ZieshaNetwork)
 - Dusk Network [Twitter](https://twitter.com/DuskFoundation).
 - Gitopia [Twitter](https://twitter.com/gitopiaDAO).
 - Exorde Labs [Twitter](https://twitter.com/ExordeLabs).
