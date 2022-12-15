@@ -8,4 +8,5 @@
 - Gitopia [Twitter](https://twitter.com/gitopiaDAO).
 - Exorde Labs [Twitter](https://twitter.com/ExordeLabs).
 - Minima [Twitter](https://twitter.com/Minima_Global).
+- Q-Blockchain [Twitter](https://twitter.com/QBlockchain).
 
