@@ -1,4 +1,4 @@
-<h1 align="center"> Q Blockchain </h1>
+<h1 align="center"> Q-Blockchain </h1>
 
 
 ## İhtiyacımız olanlar ve notlar:
